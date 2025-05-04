@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Output
+*.pdf
+*.pem
